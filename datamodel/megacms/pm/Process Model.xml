@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="0A6C9D75-52D8-994C-26A2-29884156679E">
+   <createdBy>valdo</createdBy>
+   <createdTime>2011-12-15 13:28:45 UTC</createdTime>
+   <ownerDesignName>megacms</ownerDesignName>
+   <shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

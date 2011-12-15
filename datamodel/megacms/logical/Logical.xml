@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="70D845F5-D81F-7F6D-7B87-DE5DD489F85C" mainViewID="A0C82042-A799-28E9-87F3-3643066B58BB">
+   <createdBy>valdo</createdBy>
+   <createdTime>2011-12-15 13:28:45 UTC</createdTime>
+   <ownerDesignName>megacms</ownerDesignName>
+   <shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

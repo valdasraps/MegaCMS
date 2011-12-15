@@ -1,0 +1,73 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" id="7AEFD66B-E98E-EE99-A86D-338A1DD01315" directorySegmentName="seg_0" name="layouts">
+   <createdBy>valdo</createdBy>
+   <createdTime>2011-12-15 13:30:03 UTC</createdTime>
+   <ownerDesignName>megacms</ownerDesignName>
+   <engineerTo>
+      <item key="9ED08ECE-4B6B-50AA-DEFF-4F4012C1144F" value="true"/>
+   </engineerTo>
+   <pkName>layouts_PK</pkName>
+   <fonts>
+      <FontObject class="oracle.dbtools.crest.model.design.FontObjectWr">
+         <foType>Title</foType>
+         <fontStyle>1</fontStyle>
+         <colorRGB>-16776961</colorRGB>
+      </FontObject>
+      <FontObject class="oracle.dbtools.crest.model.design.FontObjectWr">
+         <foType>Column</foType>
+         <colorRGB>-16777216</colorRGB>
+      </FontObject>
+      <FontObject class="oracle.dbtools.crest.model.design.FontObjectWr">
+         <foType>Datatype</foType>
+         <colorRGB>-16744448</colorRGB>
+      </FontObject>
+      <FontObject class="oracle.dbtools.crest.model.design.FontObjectWr">
+         <foType>PK Element</foType>
+         <colorRGB>-16776961</colorRGB>
+      </FontObject>
+      <FontObject class="oracle.dbtools.crest.model.design.FontObjectWr">
+         <foType>FK Element</foType>
+         <colorRGB>-16777216</colorRGB>
+      </FontObject>
+      <FontObject class="oracle.dbtools.crest.model.design.FontObjectWr">
+         <foType>UK Element</foType>
+         <colorRGB>-16776961</colorRGB>
+      </FontObject>
+      <FontObject class="oracle.dbtools.crest.model.design.FontObjectWr">
+         <foType>Not Null</foType>
+         <colorRGB>-65536</colorRGB>
+      </FontObject>
+      <FontObject class="oracle.dbtools.crest.model.design.FontObjectWr">
+         <foType>Key</foType>
+         <colorRGB>-16777216</colorRGB>
+      </FontObject>
+   </fonts>
+   <columns>
+      <Column class="oracle.dbtools.crest.model.design.relational.Column" name="id" id="D46622D0-3912-9A9E-C3EF-4443E59563D4">
+         <createdBy>valdo</createdBy>
+         <createdTime>2011-12-15 13:30:19 UTC</createdTime>
+         <ownerDesignName>megacms</ownerDesignName>
+         <engineerTo>
+            <item key="9ED08ECE-4B6B-50AA-DEFF-4F4012C1144F" value="true"/>
+         </engineerTo>
+         <use>1</use>
+         <logicalDatatype>LOGDT019</logicalDatatype>
+         <autoIncrementCycle>false</autoIncrementCycle>
+      </Column>
+   </columns>
+   <indexes>
+      <ind_PK_UK class="oracle.dbtools.crest.model.design.relational.Index" id="C40D7B49-1584-E69F-D8BD-892C806F5E19" name="layouts_PK">
+         <createdBy>valdo</createdBy>
+         <createdTime>2011-12-15 13:30:19 UTC</createdTime>
+         <ownerDesignName>megacms</ownerDesignName>
+         <engineerTo>
+            <item key="9ED08ECE-4B6B-50AA-DEFF-4F4012C1144F" value="true"/>
+         </engineerTo>
+         <pk>true</pk>
+         <indexState>Primary Constraint</indexState>
+         <indexColumnUsage>
+            <colUsage columnID="D46622D0-3912-9A9E-C3EF-4443E59563D4"/>
+         </indexColumnUsage>
+      </ind_PK_UK>
+   </indexes>
+</Table>

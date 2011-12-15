@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="Table" objectID="7AEFD66B-E98E-EE99-A86D-338A1DD01315" name="layouts" seqName="seg_0"/>
+   <object objectType="Table" objectID="464BE91C-3DA2-DC09-A3A3-DEB3ACF3D89D" name="sites" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>

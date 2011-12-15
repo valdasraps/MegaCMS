@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DataTypesDesign class="oracle.dbtools.crest.model.design.datatypes.DataTypesDesign" name="DataTypes" id="455E8159-7180-180F-CC0A-F9387865F3FD" mainViewID="0F70C36A-8238-4238-00F6-2199F2CF42CE">
+   <createdBy>valdo</createdBy>
+   <createdTime>2011-12-15 13:28:45 UTC</createdTime>
+   <ownerDesignName>megacms</ownerDesignName>
+   <shouldBeOpen>false</shouldBeOpen>
+   <collectionOfRefsPrefix>array_ref_</collectionOfRefsPrefix>
+   <collectionPrefix>array_</collectionPrefix>
+   <defaultArrayLimit>10</defaultArrayLimit>
+   <defaultCollectionType_Kind>ARRAY</defaultCollectionType_Kind>
+   <defaultCollectionType_Suffix>_Array</defaultCollectionType_Suffix>
+   <embeddedStructuredTypePrefix>inst_</embeddedStructuredTypePrefix>
+   <referencePrefix>ref_</referencePrefix>
+   <useRoleInAssociationEndAsName>true</useRoleInAssociationEndAsName>
+</DataTypesDesign>

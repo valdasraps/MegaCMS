@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="ABC3948A-6906-2026-E2E4-BC91EFD0032E">
+   <createdBy>valdo</createdBy>
+   <createdTime>2011-12-15 13:28:45 UTC</createdTime>
+   <ownerDesignName>megacms</ownerDesignName>
+   <shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>
